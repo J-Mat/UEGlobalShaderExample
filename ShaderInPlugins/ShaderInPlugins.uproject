@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C8716879-4470-EACC-4BE4-97BFF93097EA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ShaderInPlugins",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Foo",
+			"Enabled": true
+		}
+	]
+}
